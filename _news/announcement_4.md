@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<u>Research grant</u>: "Studying Variation in Southern African Iron Age Social Dynamics", U.S. National Science Foundation Senior Archaeology Award (No. 2345175), $269,808 for four years of archaeological survey and excavation in the Letaba region of South Africa's Kruger National Park. Awarded to the University of Hawai'i: <u>Christian Peterson</u> [PI], Annie R. Antonites [co-PI], and Xander Antonites [co-PI].
+<u>Research grant</u>: U.S. National Science Foundation Senior Archaeology Award (No. 2345175), "Studying Variation in Southern African Iron Age Social Dynamics". $269,808 in support of regional settlement survey and household archaeology in South Africa's Kruger National Park, 2024‒2027 (Christian Peterson [PI], Xander Antonites and Annie R. Antonites [co-PIs], University of Hawai'i and the University of Pretoria).
