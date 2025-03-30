@@ -1,7 +1,7 @@
 ---
 layout: page
 title: South Africa
-description: Letaba-Olifants Confluence Area Project
+description: Letaba Archaeology Project
 img: assets/img/letaba.jpg
 importance: 2
 category: research
