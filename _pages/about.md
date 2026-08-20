@@ -29,4 +29,4 @@ I currently co-direct multi-scalar archaeological fieldwork aimed at understandi
 
 I'm also a husband, father, dog lover, inveterate cyclist, sci-fi aficionado, accomplished flintknapper, and would-be guitarist with blues, rock, jazz, and other roots-based musical influences.
 
-I welcome inquires from prospective students interested in researching EIA societies in southern Africa. Unfortunately, I am no longer taking students with interests in Neolithic China.
+I welcome inquires from prospective students interested in researching EIA societies in southern Africa. Unfortunately, I am not currently taking students with interests in Neolithic China.
